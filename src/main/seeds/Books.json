@@ -1,0 +1,14 @@
+{
+    "Books": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "asin": {"S":"B00EGMV00W"},
+                    "title": {"S":"The Fire Next Time"},
+                    "author": {"S":"Baldwin"},
+                    "year_published": {"N":"1963"}
+                }
+            }
+        }
+    ]
+}
